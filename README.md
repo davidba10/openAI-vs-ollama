@@ -4,7 +4,7 @@ Comparación exhaustiva entre GPT-4o y modelos de IA locales completamente gratu
 
 ## 🎥 Video del Experimento
 
-[Ver video completo en YouTube](URL_DE_TU_VIDEO)
+[[Ver video completo en YouTube](URL_DE_TU_VIDEO)](https://youtu.be/WPrCv5M5Fyg)
 
 ## 📊 Resumen de Resultados
 
