@@ -1,5 +1,3 @@
-# openAI-vs-ollama
-
 # GPT-4o vs Modelos Locales Gratuitos - Comparación Real
 
 Comparación exhaustiva entre GPT-4o y modelos de IA locales completamente gratuitos en 6 pruebas del mundo real.
